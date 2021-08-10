@@ -1,0 +1,2 @@
+rootProject.name = "Pronin_HW6_Notes"
+include ':app'
